@@ -1,0 +1,32 @@
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Jogador\obj\Debug\net5.0\Jogador.csprojAssemblyReference.cache
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Jogador\obj\Debug\net5.0\Jogador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Jogador\obj\Debug\net5.0\Jogador.AssemblyInfoInputs.cache
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Jogador\obj\Debug\net5.0\Jogador.AssemblyInfo.cs
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Jogador\obj\Debug\net5.0\Jogador.csproj.CoreCompileInputs.cache
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Jogador\bin\Debug\net5.0\Jogador.exe
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Jogador\bin\Debug\net5.0\Jogador.deps.json
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Jogador\bin\Debug\net5.0\Jogador.runtimeconfig.json
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Jogador\bin\Debug\net5.0\Jogador.runtimeconfig.dev.json
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Jogador\bin\Debug\net5.0\Jogador.dll
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Jogador\bin\Debug\net5.0\ref\Jogador.dll
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Jogador\bin\Debug\net5.0\Jogador.pdb
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Jogador\obj\Debug\net5.0\Jogador.dll
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Jogador\obj\Debug\net5.0\ref\Jogador.dll
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Jogador\obj\Debug\net5.0\Jogador.pdb
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Jogador\obj\Debug\net5.0\Jogador.genruntimeconfig.cache
+C:\Mateus\Celulares\SD 16 GB\A\B\C\Colas\Lucas\Exercicios_26-05-main\Jogador\bin\Debug\net5.0\Jogador.exe
+C:\Mateus\Celulares\SD 16 GB\A\B\C\Colas\Lucas\Exercicios_26-05-main\Jogador\bin\Debug\net5.0\Jogador.deps.json
+C:\Mateus\Celulares\SD 16 GB\A\B\C\Colas\Lucas\Exercicios_26-05-main\Jogador\bin\Debug\net5.0\Jogador.runtimeconfig.json
+C:\Mateus\Celulares\SD 16 GB\A\B\C\Colas\Lucas\Exercicios_26-05-main\Jogador\bin\Debug\net5.0\Jogador.runtimeconfig.dev.json
+C:\Mateus\Celulares\SD 16 GB\A\B\C\Colas\Lucas\Exercicios_26-05-main\Jogador\bin\Debug\net5.0\Jogador.dll
+C:\Mateus\Celulares\SD 16 GB\A\B\C\Colas\Lucas\Exercicios_26-05-main\Jogador\bin\Debug\net5.0\ref\Jogador.dll
+C:\Mateus\Celulares\SD 16 GB\A\B\C\Colas\Lucas\Exercicios_26-05-main\Jogador\bin\Debug\net5.0\Jogador.pdb
+C:\Mateus\Celulares\SD 16 GB\A\B\C\Colas\Lucas\Exercicios_26-05-main\Jogador\obj\Debug\net5.0\Jogador.csproj.AssemblyReference.cache
+C:\Mateus\Celulares\SD 16 GB\A\B\C\Colas\Lucas\Exercicios_26-05-main\Jogador\obj\Debug\net5.0\Jogador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mateus\Celulares\SD 16 GB\A\B\C\Colas\Lucas\Exercicios_26-05-main\Jogador\obj\Debug\net5.0\Jogador.AssemblyInfoInputs.cache
+C:\Mateus\Celulares\SD 16 GB\A\B\C\Colas\Lucas\Exercicios_26-05-main\Jogador\obj\Debug\net5.0\Jogador.AssemblyInfo.cs
+C:\Mateus\Celulares\SD 16 GB\A\B\C\Colas\Lucas\Exercicios_26-05-main\Jogador\obj\Debug\net5.0\Jogador.csproj.CoreCompileInputs.cache
+C:\Mateus\Celulares\SD 16 GB\A\B\C\Colas\Lucas\Exercicios_26-05-main\Jogador\obj\Debug\net5.0\Jogador.dll
+C:\Mateus\Celulares\SD 16 GB\A\B\C\Colas\Lucas\Exercicios_26-05-main\Jogador\obj\Debug\net5.0\ref\Jogador.dll
+C:\Mateus\Celulares\SD 16 GB\A\B\C\Colas\Lucas\Exercicios_26-05-main\Jogador\obj\Debug\net5.0\Jogador.pdb
+C:\Mateus\Celulares\SD 16 GB\A\B\C\Colas\Lucas\Exercicios_26-05-main\Jogador\obj\Debug\net5.0\Jogador.genruntimeconfig.cache
